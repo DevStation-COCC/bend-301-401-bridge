@@ -1,4 +1,4 @@
-# Code 301/401 Bridge Course
+# Code 301-401 Bridge Course
 
 ## Course Overview
 
