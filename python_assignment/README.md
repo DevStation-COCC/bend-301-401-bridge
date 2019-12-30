@@ -2,6 +2,7 @@
 
 ## Reading/Resources
 
+### General:
 [Why Python?](http://www.bestprogramminglanguagefor.me/why-learn-python)
 
 [Python Basic Syntax](https://www.w3schools.com/python/python_syntax.asp)
@@ -16,6 +17,9 @@
 [pathlib](https://docs.python.org/3/library/pathlib.html)
 
 [os](https://docs.python.org/3/library/os.html)
+
+### VSCode Extensions:
+[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 ## Instructions
 - Create a new repository for this assignment
