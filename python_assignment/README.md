@@ -7,6 +7,10 @@
 
 [Python Basic Syntax](https://www.w3schools.com/python/python_syntax.asp)
 
+[Python Functions](https://www.w3schools.com/python/python_functions.asp)
+
+[Python Classes](https://www.w3schools.com/python/python_classes.asp)
+
 [Python 3 Docs](https://docs.python.org/3.6/)
 
 ### Python Module Docs:
