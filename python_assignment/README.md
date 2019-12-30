@@ -1,4 +1,6 @@
-# :snake: Python Crash Course :snake:
+# Python Crash Course
+
+![Python logo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiBy9OOw93mAhWFtZ4KHbxsAH0QjRx6BAgBEAQ&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw35LwYtPjwGIb53TllLdVSG&ust=1577800520305864)
 
 ## Reading/Resources
 
