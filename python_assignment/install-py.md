@@ -1,5 +1,7 @@
 # Python 3 Installation Instructions
 
+[Back to README.md](README.md)
+
 ## Mac
 You can use Homebrew to search for everything you can install with the brew search command, but to provide us with a shorter list, let’s instead search for just the available Python-related packages or modules:
 
@@ -62,3 +64,5 @@ you can use pip to install and manage programming packages you may want to use i
 $ pip3 install package_name
 ```
 Here, `package_name` can refer to any Python package or library.
+
+[Back to README.md](README.md)
