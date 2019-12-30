@@ -1,6 +1,6 @@
 # Python Crash Course
 
-![Python logo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjOsLXuw93mAhWkJzQIHSanBGIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-programming-language-computer-programming-1854374%2F&psig=AOvVaw35LwYtPjwGIb53TllLdVSG&ust=1577800520305864)
+![Python logo](py-logo.svg.png)
 
 ## Reading/Resources
 
