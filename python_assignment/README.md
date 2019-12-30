@@ -1,4 +1,4 @@
-![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png)
+![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png) ![Python logo](py-logo.svg.png)
 
 # Python Crash Course
 
